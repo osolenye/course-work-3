@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kursachAttempt2</string>
+    <string name="buttonRegistration">Registration</string>
+    <string name="buttonLogin">Login</string>
+</resources>
